@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-l4dhco/static/css/main.94dbbf9e.css",
+    "main.js": "https://.github.io/csb-l4dhco/static/js/main.e0053725.js",
+    "index.html": "https://.github.io/csb-l4dhco/index.html",
+    "main.94dbbf9e.css.map": "https://.github.io/csb-l4dhco/static/css/main.94dbbf9e.css.map",
+    "main.e0053725.js.map": "https://.github.io/csb-l4dhco/static/js/main.e0053725.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94dbbf9e.css",
+    "static/js/main.e0053725.js"
+  ]
+}
