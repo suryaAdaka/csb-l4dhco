@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-l4dhco/static/css/main.94dbbf9e.css",
-    "main.js": "https://.github.io/csb-l4dhco/static/js/main.e0053725.js",
-    "index.html": "https://.github.io/csb-l4dhco/index.html",
-    "main.94dbbf9e.css.map": "https://.github.io/csb-l4dhco/static/css/main.94dbbf9e.css.map",
-    "main.e0053725.js.map": "https://.github.io/csb-l4dhco/static/js/main.e0053725.js.map"
+    "main.css": "https://suryaadaka.github.io/csb-l4dhco/static/css/main.94dbbf9e.css",
+    "main.js": "https://suryaadaka.github.io/csb-l4dhco/static/js/main.9c9aa61d.js",
+    "index.html": "https://suryaadaka.github.io/csb-l4dhco/index.html",
+    "main.94dbbf9e.css.map": "https://suryaadaka.github.io/csb-l4dhco/static/css/main.94dbbf9e.css.map",
+    "main.9c9aa61d.js.map": "https://suryaadaka.github.io/csb-l4dhco/static/js/main.9c9aa61d.js.map"
   },
   "entrypoints": [
     "static/css/main.94dbbf9e.css",
-    "static/js/main.e0053725.js"
+    "static/js/main.9c9aa61d.js"
   ]
 }
